@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ed799b2-b736-4d10-a803-e24ed42ebae8" name="Changes" comment="GameManager 추가" />
+    <list default="true" id="5ed799b2-b736-4d10-a803-e24ed42ebae8" name="Changes" comment="GameScene 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.racing-game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.racing-game/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +15,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hojoomoni/racing-game.git",
+    "accountId": "945aa633-1f74-4ff8-bad6-71231ad93be0"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/hojoomoni/Documents/GitHub/racing-game/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2rvfNI2XNpvc0jSUdPfs6NTqgkM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +37,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -81,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737444430875</updated>
-      <workItem from="1737444438251" duration="297000" />
+      <workItem from="1737444438251" duration="646000" />
     </task>
     <task id="LOCAL-00001" summary="GameManager 추가">
       <option name="closed" value="true" />
@@ -91,12 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1737444584045</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GameScene 수정">
+      <option name="closed" value="true" />
+      <created>1737445044879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737445044879</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
     <option name="hasUnityReference" value="true" />
@@ -118,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="GameManager 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="GameManager 추가" />
+    <MESSAGE value="GameScene 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="GameScene 수정" />
   </component>
 </project>
