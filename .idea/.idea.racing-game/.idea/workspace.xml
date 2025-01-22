@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ed799b2-b736-4d10-a803-e24ed42ebae8" name="Changes" comment="GameScene 수정">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.racing-game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.racing-game/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5ed799b2-b736-4d10-a803-e24ed42ebae8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hojoomoni"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/hojoomoni/racing-game.git",
@@ -97,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737444430875</updated>
-      <workItem from="1737444438251" duration="646000" />
+      <workItem from="1737444438251" duration="968000" />
     </task>
     <task id="LOCAL-00001" summary="GameManager 추가">
       <option name="closed" value="true" />
